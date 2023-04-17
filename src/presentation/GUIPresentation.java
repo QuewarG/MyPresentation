@@ -80,7 +80,6 @@ public class GUIPresentation extends JFrame {
     private class Listener implements ActionListener, KeyListener, MouseListener {
 
         private ImageIcon image;
-        private ImageIcon hobby;
 
         @Override
         public void actionPerformed(ActionEvent e) {
